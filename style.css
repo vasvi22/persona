@@ -1,0 +1,35 @@
+
+img header { 
+    height: 980px;
+    width: 760px;
+ }
+ 
+  p {
+    font-family: "tahoma", sans-serif;
+  }
+
+  .navbar a { background-color: black;
+    
+   color: white;
+   
+  }
+
+  .navbar a:hover {
+    
+    color: red;    
+
+}
+
+h4 {
+    text-align: center;
+  }
+
+h3 {
+    text-align: center;
+    text-decoration: overline;
+    word-spacing: 10px;
+  }
+
+  p {
+    text-align: center;
+  }
